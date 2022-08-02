@@ -28,7 +28,7 @@
 
     #perfil{
         width: 100vw;
-        height: 30vh;
+        height: 25vh;
         background: linear-gradient(180deg, rgba(3, 124, 102, 0) 0%, rgba(3, 124, 102, 0.208333) 13.02%, #037C66 100%);
         border-radius: 0px 0px 5vw 5vw;
     }
